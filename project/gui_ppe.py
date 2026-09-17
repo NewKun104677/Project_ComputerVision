@@ -296,3 +296,5 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = PPEInspectorApp(root)
     root.mainloop()
+
+    #ลองใช้งาน git ครั้งแรกงงมาก แต่ก็พยายาม
